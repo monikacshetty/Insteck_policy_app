@@ -11,8 +11,8 @@ export default function PolicyApp() {
       <Router>
         <Header />
         <Switch>
-          <ViewPolicy path="/view" />
           <CreatePolicy path="/create" />
+          <ViewPolicy path="/" />
         </Switch>
         <Footer />
       </Router>

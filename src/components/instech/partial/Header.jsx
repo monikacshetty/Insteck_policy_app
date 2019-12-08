@@ -13,7 +13,7 @@ function Header() {
         </div>
         <ul className="navbar-nav">
           <li>
-            <Link className="nav-link" to="/view">
+            <Link className="nav-link" to="/">
               Home
             </Link>
           </li>
