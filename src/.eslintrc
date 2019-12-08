@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "no-console":1,
+        "no-var":1,
+        "semi":"warn",
+        "curly": "error",
+        "quotes": "warn",
+        "skipBlankLines": false   
+    }
+}

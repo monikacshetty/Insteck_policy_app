@@ -7,3 +7,11 @@ it('renders without crashing', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
+
+describe('My Test Suite', () => {
+  it('My Test Case', () => {
+    expect(true).toEqual(true);
+  });
+});
+
+
